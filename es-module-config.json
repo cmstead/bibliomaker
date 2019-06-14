@@ -1,0 +1,10 @@
+{
+    "cwd": "src",
+    "djectLocation": "dject",
+    "isNodeApplication": false,
+    "destinationPath": "src${pathSeparator}bibliomaker-container.js",
+    "modulePaths": [
+        "dependencies/**${pathSeparator}*.js",
+        "components/**${pathSeparator}*.vue"
+    ]
+}
